@@ -1,6 +1,4 @@
-Sublime text configuration
-
-My sublime text configuration.
+# My sublime text configuration
 
 ```json
     {

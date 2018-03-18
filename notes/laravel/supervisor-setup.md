@@ -1,4 +1,4 @@
-Laravel Queue Supervisor
+# Laravel Queue Supervisor
 
 **Installation instructions:**
 
