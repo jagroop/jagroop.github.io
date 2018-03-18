@@ -1,3 +1,2 @@
-# Headline
+# My Development Notes
 
-> An awesome project.
