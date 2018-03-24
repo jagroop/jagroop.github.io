@@ -84,7 +84,7 @@ RSAAuthentication yes
 IdentityFile ~/.ssh/ssh-test
 ```
 
-Easy Way :
+## Easy Way to retain settings
 
 Permanently Add SSH key ssh-add
 
