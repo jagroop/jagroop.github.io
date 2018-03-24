@@ -47,10 +47,8 @@ drwxr-xr-x 25 jagroop jagroop 4096 Mar 24 14:39 ../
 - Goto ```https://github.com/settings/keys```
 - Click on **SSH keys and GPG Keys**
 - Click on **New SSH Key Button**
-![dev](https://imgur.com/a/FEpfO)
 
 - Enter title name and paste paste copied key and click **Add SSH Key** Button.
-![dev](https://imgur.com/a/41EEO)
 
 - And we are done with adding ssh key !
 
