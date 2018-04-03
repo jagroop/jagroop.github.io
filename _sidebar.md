@@ -3,3 +3,4 @@
 * [Linux](notes/linux/readme.md)
 * [Sublime Text](notes/sublime-text/readme.md)
 * [Git](notes/git/readme.md)
+* [PHP](notes/git/readme.md)
