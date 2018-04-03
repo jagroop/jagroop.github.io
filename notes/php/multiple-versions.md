@@ -1,4 +1,5 @@
-# Multiple PHP versions on Ubuntu (Linux)
+Multiple PHP versions on Ubuntu (Linux)
+=======================================
 
 ## Install PHP (5.6, 7.0, 7.1) on Ubuntu Using PPA
 
