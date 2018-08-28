@@ -3,7 +3,7 @@ Project work-flow Guidelines
 
 # Git Work-flow
 
-- Whenever you start working on a new feature and bug. Please create a separate branch for your work don't work on dev or master branch
+- Whenever you start working on a new feature or bug. Please create a separate branch for your work don't work on dev or master branch
 
 - New features will be namespaced under feature branch. i.e.
 
