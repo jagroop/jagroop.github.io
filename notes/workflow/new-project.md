@@ -5,9 +5,9 @@ Project work-flow Guidelines
 
 - Whenever you start working on a new feature or bug. Please create a separate branch for your work don't work on dev or master branch
 
-- New features will be namespaced under feature branch. i.e.
+- New features will be namespaced under feature branch. i.e. __feature/feature-name__
 
-- Bugs resolving will be namespaced under bug namespace. i.e.
+- Bugs resolving will be namespaced under bug namespace. i.e. __bug/bug-name__
 
 ```bash
 
