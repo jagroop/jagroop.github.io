@@ -1,28 +1,28 @@
-Project work-flow Guidelines
-============================
+New Project Work Flow
+=====================
 
-# Git Work-flow
+## Notes
 
-- Whenever you start working on a new feature or bug. Please create a separate branch for your work don't work on dev or master branch
+- Always keep your feature or bug branch synced with remote dev branch.
+- Whenever you start working on a new feature or bug. Please create a separate branch for your work DO NOT work on dev or master branch
+  i.e. ```git checkout -b feature-name```
+- Push only when the work is done , DO NOT PUSH frequently.
+- Please write decent commit messages.
 
-- New features will be namespaced under feature branch. i.e. __feature/feature-name__
+## Installation
 
-- Bugs resolving will be namespaced under bug namespace. i.e. __bug/bug-name__
+1. Clone repository ( Don't forget to replace ```app-name``` with Application Name without spaces )
 
 ```bash
+git clone <link-to-repo>.git app-name
 
-## Set these aliases in your dev machine
+cd app-name
 
-gnf () {
-  git checkout -b feature/"${1}"
-}
+git checkout dev
 
-gnb () {
-  git checkout -b bug/"${1}"
-}
-
-## How to use these aliases
-
-gnf contact-us-page # New feature branch
-gnb user-auth-error # New bug branch
+git checkout -b <feature-branch>
 ```
+
+2. Install dependecies
+
+Read Further installation instructions from project Readme file
