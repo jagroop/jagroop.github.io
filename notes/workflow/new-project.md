@@ -13,6 +13,7 @@ New Project Work Flow
 - Source branch will be feature branch (The one you were working on) and
 - Target branch will be dev branch
 - After creating merge request make sure there are no conflicts.
+- DONT MERGE THE CODE JUST CREATE MERGE REQUEST.
 - If all is good share merge request link with your Team Leader.
 
 ## Installation
