@@ -16,7 +16,7 @@ New Project Work Flow
 - DONT MERGE THE CODE JUST CREATE MERGE REQUEST.
 - If all is good share merge request link with your Team Leader.
 
-## Installation
+## How to clone a Repository.
 
 1. Clone repository ( Don't forget to replace ```app-name``` with Application Name without spaces )
 
